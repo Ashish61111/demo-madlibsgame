@@ -1,5 +1,4 @@
-import javax.xml.transform.Source;
-import java.sql.SQLOutput;
+
 import java.util.Scanner;
 public class ShoppingCart {
     public static void main(String[] args) {
