@@ -17,5 +17,7 @@ public class StudentDetails {
         System.out.printf("Name : %s\n", name);
         System.out.printf("Age  : %d years\n", age);
         System.out.printf("CGPA : %.2f\n", cgpa);
+
+        Scanner close;
     }
 }
